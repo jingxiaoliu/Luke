@@ -1,0 +1,5 @@
+cd "C:\Users\jingx\Dropbox\Work&Study\CMU\12746\TermProject\GenVeh"
+python setup.py install
+python setup.py py2exe
+cd dist
+GenVehApp
